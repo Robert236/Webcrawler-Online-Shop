@@ -1,0 +1,10 @@
+artikelnummer;bestellnummer;uvp;rabatt;ek_netto;vk_netto;zuschlagskalkulation;kurzbezeichnung;lagerfaehig;lieferstatus;hd24_vk_brutto;hd24_lieferzeit;pk
+WO1620103;1620103;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmschale fuer Heizungsverteiler m. 3 HK;FALSCH;P;200,10; Sofort lieferbar, 2-4 Werktage;49c512c1397948439b48745215727094
+WO1669270;1669270;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Schlammabscheider 1""";FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;b6459426c8824bf5ae8f9972ccc7fcc5
+WO1669271;1669271;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmung fuer Schlammabscheider;FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;710f33a1543f447f950207156c508d17
+WO1669272;1669272;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +13%;"WOLF Waermedaemmung fuer Schlammabscheider 2""";FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;159d06a923ce4913a08ef38ec213a304
+WO1669275;1669275;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +13%;"WOLF Waermedaemmung fuer Mikroblasenabscheider 1""";FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;3ccb74d220e943249301c411790ddee1
+WO1669276;1669276;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung f. Mikroblasenabscheider 1 1/4""1 1/2""";FALSCH;P;43,60; 5 - 12 Werktage;fa6b205cf692489bb514bbe9333b4074
+WO1669280;1669280;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Mikroblasenabscheider 2""";FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;a3df7f97fe654b30a6fec844f1b6fa67
+WO1669602;1669602;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Schlammabscheider 1"" drehbar";FALSCH;S;43,60; Sofort lieferbar, 2-4 Werktage;dd4c0b0617024f8cb6bf3e95097e733c
+WO1669603;1669603;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmung fuer Schlammabscheider drehbar;FALSCH;P;43,60; Sofort lieferbar, 2-4 Werktage;d6393ae3bf9c4b8192447cfc35fdf04a

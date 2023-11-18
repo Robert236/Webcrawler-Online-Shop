@@ -1,0 +1,1 @@
+{"indexes": {"article": {"pk": {"key": "pk", "id": "a91dee15a92c44d0a5742cce6afe1e35"}}}, "store_class": "transactional", "index_class": "transactional", "index_store_class": "basic", "serializer_class": "json", "autocommit": false, "version": "0.2.12"}

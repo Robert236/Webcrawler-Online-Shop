@@ -1,0 +1,10 @@
+artikelnummer;bestellnummer;uvp;rabatt;ek_netto;vk_netto;zuschlagskalkulation;kurzbezeichnung;lagerfaehig;lieferstatus
+WO1620103;1620103;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmschale fuer Heizungsverteiler m. 3 HK;FALSCH;P
+WO1669270;1669270;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Schlammabscheider 1""";FALSCH;P
+WO1669271;1669271;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmung fuer Schlammabscheider;FALSCH;P
+WO1669272;1669272;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +13%;"WOLF Waermedaemmung fuer Schlammabscheider 2""";FALSCH;P
+WO1669275;1669275;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +13%;"WOLF Waermedaemmung fuer Mikroblasenabscheider 1""";FALSCH;P
+WO1669276;1669276;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung f. Mikroblasenabscheider 1 1/4""1 1/2""";FALSCH;P
+WO1669280;1669280;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Mikroblasenabscheider 2""";FALSCH;P
+WO1669602;1669602;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;"WOLF Waermedaemmung fuer Schlammabscheider 1"" drehbar";FALSCH;S
+WO1669603;1669603;3XX,00 EUR;-3X,05%;1X,00 EUR;8X,00 EUR;13 XXXXX +12%;WOLF Waermedaemmung fuer Schlammabscheider drehbar;FALSCH;P
